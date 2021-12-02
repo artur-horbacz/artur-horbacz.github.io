@@ -1,0 +1,21 @@
+baseURL = "https://artur-horbacz.github.io"
+languageCode = "PL-pl"
+title = "Margaj"
+themesDir = "themes"
+theme = "hugo-hero-theme"
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.55.0"
+    
+
+
+[[menu.main]]
+    name = "Kontakt"
+    url = "/contact/"
+    weight = 4
+
+[permalinks]
+  post = "/:year/:month/:day/:slug/"
+  pages = "/:filename/"

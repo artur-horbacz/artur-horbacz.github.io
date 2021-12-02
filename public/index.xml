@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Margaj</title>
+    <link>www.example.com/</link>
+    <description>Recent content in Home on Margaj</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>PL-pl</language>
+    <lastBuildDate>Mon, 12 Feb 2018 15:37:57 +0700</lastBuildDate><atom:link href="www.example.com/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
